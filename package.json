@@ -1,16 +1,16 @@
 {
-  "name": "@bigbang-sdk/deep-sort",
+  "name": "@bb-sdk/deep-sort",
   "description": "A library for deep sorting using",
-  "homepage": "https://github.com/bigbang-sdk/deep-sort",
+  "homepage": "https://github.com/beepbop-sdk/deep-sort",
   "keywords": [
     "deep-sort",
     "json-deep-sort"
   ],
-  "author": "Bigbang",
+  "author": "Beepbop",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bigbang-sdk/deep-sort.git"
+    "url": "https://github.com/beepbop-sdk/deep-sort.git"
   },
   "main": "dist/index.js",
   "files": [
