@@ -1,7 +1,7 @@
 {
-  "name": "@bb-sdk/deep-sort",
+  "name": "@bb-labs/deep-sort",
   "description": "A library for deep sorting using",
-  "homepage": "https://github.com/beepbop-sdk/deep-sort",
+  "homepage": "https://github.com/beepbop-labs/deep-sort",
   "keywords": [
     "deep-sort",
     "json-deep-sort"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/beepbop-sdk/deep-sort.git"
+    "url": "https://github.com/beepbop-labs/deep-sort.git"
   },
   "main": "dist/index.js",
   "files": [
